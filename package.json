@@ -1,0 +1,26 @@
+{
+  "name": "coursera-test",
+  "version": "1.0.0",
+  "description": "coursera-test repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "predeploy": "echo Preparing deployment...",
+    "deploy": "gh-pages -d ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ADY-TECHNOLOGIES/coursera-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ADY-TECHNOLOGIES/coursera-test/issues"
+  },
+  "homepage": "https://github.com/ADY-TECHNOLOGIES/coursera-test#readme",
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
